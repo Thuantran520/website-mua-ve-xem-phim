@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ---------------------------------------------------
+# CHỈ BỔ SUNG PHẦN DƯỚI ĐÂY ĐỂ ẨN TÀI LIỆU KHỎI GITHUB
+# (Giảng viên nhìn vào Github sẽ chỉ thấy source code web)
+# ---------------------------------------------------
+File\ báo\ cáo\ cuối\ kỳ/
+docs/
+*.md
+!README.md
+*.zip
+*.xls
+*.xlsx
+*.pdf
+*.docx
+trello-board.html
+generate_burndown*
