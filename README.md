@@ -1,6 +1,9 @@
 # Website Mua Vé Xem Phim - Dự án Agile/Scrum (Final Exam)
 
+> Dự án báo cáo cuối kỳ môn Công nghệ phần mềm / Quản lý dự án theo mô hình Agile/Scrum.
+
 Dự án phát triển hệ thống **Website Mua Vé Xem Phim** ứng dụng mô hình Agile/Scrum, giải quyết bài toán đặt vé đồng thời (Concurrency Seat Booking) bằng Redis và tích hợp cổng thanh toán trực tuyến MoMo/VNPay.
+
 
 ---
 
