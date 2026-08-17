@@ -1,0 +1,27 @@
+{
+  "name": "website-mua-ve-xem-phim",
+  "version": "1.0.0",
+  "description": "Dự án Website Mua Vé Xem Phim tích hợp cơ chế giữ ghế concurrency bằng Redis và cổng thanh toán MoMo/VNPay.",
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "echo 'Chạy Server Backend...' && cd src/backend && npm run dev",
+    "dev:frontend": "echo 'Chạy Client Frontend...' && cd src/frontend && npm run dev",
+    "test:concurrency": "echo 'Chạy script test tải trùng ghế...' && autocannon -c 100 -d 5 http://localhost:5000/api/v1/bookings/lock-seats",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down"
+  },
+  "keywords": [
+    "Agile",
+    "Scrum",
+    "Redis",
+    "Distributed-Lock",
+    "MoMo",
+    "VNPay",
+    "Seat-Booking"
+  ],
+  "author": "Trần Phan Minh Thuận, Phạm Thanh Tài, Phạm Văn Thư, Phạm Thị Ngọc Trâm",
+  "license": "ISC",
+  "devDependencies": {
+    "autocannon": "^7.15.0"
+  }
+}
