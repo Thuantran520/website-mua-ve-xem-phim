@@ -30,6 +30,7 @@ Dự án được tổ chức chuẩn hóa để phục vụ cho việc chấm �
 │   │   └── bug-report.md         # Template mô tả Bug Report
 │   └── PULL_REQUEST_TEMPLATE.md  # Template checklist khi tạo Pull Request (PR)
 ├── docs/                         # Toàn bộ tài liệu dự án
+│   ├── Bien_Ban_Tong_Hop_Du_An.md# Biên bản tổng hợp tiến độ hoàn thành dự án
 │   ├── agile/                    # Tài liệu quản lý theo Agile/Scrum
 │   │   ├── product-backlog.md    # Backlog tổng hợp các User Stories (Sprint 1 & 2)
 │   │   ├── agile-metrics.md      # Phân tích năng suất dự án (Burndown, Velocity)
@@ -105,6 +106,7 @@ npm run docker:up
 ---
 
 ## 🔗 Liên kết tài liệu Agile
-*   Xem [Product Backlog](file:///mnt/c/Agile/docs/agile/product-backlog.md) để biết kế hoạch 8 User Stories chi tiết.
-*   Xem [Sprint 1 Planning](file:///mnt/c/Agile/docs/agile/sprint-1/sprint-planning.md) và [Sprint 2 Planning](file:///mnt/c/Agile/docs/agile/sprint-2/sprint-planning.md) để theo dõi phân chia công việc.
-*   Xem [Database Schema](file:///mnt/c/Agile/docs/architecture/database-schema.md) và [API Specs](file:///mnt/c/Agile/docs/architecture/api-specifications.md) để nắm bắt thông tin kỹ thuật dự án.
+*   Xem [Product Backlog](docs/agile/product-backlog.md) để biết kế hoạch 8 User Stories chi tiết.
+*   Xem [Sprint 1 Planning](docs/agile/sprint-1/sprint-planning.md) và [Sprint 2 Planning](docs/agile/sprint-2/sprint-planning.md) để theo dõi phân chia công việc.
+*   Xem [Biên bản tổng hợp tiến độ dự án](docs/Bien_Ban_Tong_Hop_Du_An.md) để xem quá trình và kết quả đạt được.
+*   Xem [Database Schema](docs/architecture/database-schema.md) và [API Specs](docs/architecture/api-specifications.md) để nắm bắt thông tin kỹ thuật dự án.
