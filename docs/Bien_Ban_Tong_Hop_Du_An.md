@@ -33,7 +33,25 @@ Biên bản này được lập nhằm mục đích tổng kết và tóm tắt 
   - Các tài liệu quản lý (Burndown Chart, Velocity Chart, Biên bản họp) đã được cập nhật đầy đủ và chuẩn hóa.
 - **Kết quả:** Hoàn thành 100% (21/21 SP) của Sprint 2 với lượng thời gian tiết kiệm hơn so với Sprint 1 (150 giờ thực tế so với 188 giờ). 
 
-## 3. Kết luận chung
+## 3. Bảng tổng hợp mức độ hoàn thành tiến độ dự án
+
+Dưới đây là bảng tổng hợp tiến độ hoàn thành các hạng mục công việc cốt lõi của dự án qua 2 Sprints (Tổng cộng 42 Story Points):
+
+| STT | Hạng mục công việc / Chức năng cốt lõi | Phụ trách chính | Trạng thái | Hoàn thành tại |
+| :---: | :--- | :--- | :---: | :---: |
+| 1 | Khởi tạo dự án, thiết kế Database Schema (PostgreSQL) | Trần Phan Minh Thuận | Đã hoàn thành (100%) | Sprint 1 |
+| 2 | Khởi tạo Frontend React/Vite, UI Trang chủ & Suất chiếu | Phạm Thanh Tài, Phạm Thị Ngọc Trâm | Đã hoàn thành (100%) | Sprint 1 |
+| 3 | Xây dựng API Sơ đồ ghế và Thuật toán giữ chỗ (Redis Lock) | Phạm Văn Thư, Trần Phan Minh Thuận | Đã hoàn thành (100%) | Sprint 1 |
+| 4 | UI Sơ đồ ghế (Seat Map), đếm ngược thời gian 5 phút | Phạm Thanh Tài, Phạm Thị Ngọc Trâm | Đã hoàn thành (100%) | Sprint 1 |
+| 5 | Kết nối dữ liệu thời gian thực (WebSocket/SSE) | Phạm Thanh Tài, Phạm Thị Ngọc Trâm | Đã hoàn thành (100%) | Sprint 1 |
+| 6 | Tích hợp cổng thanh toán Sandbox (MoMo & VNPay) | Trần Phan Minh Thuận, Phạm Văn Thư | Đã hoàn thành (100%) | Sprint 2 |
+| 7 | Xử lý Webhook (IPN), xác thực chữ ký (Signature) | Trần Phan Minh Thuận, Phạm Văn Thư | Đã hoàn thành (100%) | Sprint 2 |
+| 8 | UI Tóm tắt hóa đơn, điều hướng thanh toán (Redirect) | Phạm Thanh Tài | Đã hoàn thành (100%) | Sprint 2 |
+| 9 | UI Thông báo kết quả (Success/Fail) & Lịch sử đặt vé | Phạm Thị Ngọc Trâm, Phạm Thanh Tài | Đã hoàn thành (100%) | Sprint 2 |
+| 10 | Dịch vụ sinh QR Code, gửi vé điện tử tự động qua Email | Trần Phan Minh Thuận | Đã hoàn thành (100%) | Sprint 2 |
+| 11 | Viết tài liệu API, Test luồng End-to-End (E2E) toàn hệ thống | Cả nhóm (Scrum Team) | Đã hoàn thành (100%) | Sprint 2 |
+
+## 4. Kết luận chung
 Sau 2 Sprints và 4 cuộc họp tổng kết định kỳ, Nhóm 9 đã hoàn thành **100% yêu cầu đề ra** của đồ án "Website Mua Vé Xem Phim". Các buổi họp đã diễn ra nghiêm túc, tuân thủ đúng tinh thần của quy trình Agile/Scrum, giúp nhóm kịp thời phát hiện rủi ro, hỗ trợ chéo lẫn nhau và đảm bảo sản phẩm bàn giao cuối cùng đạt chất lượng tốt nhất cả về mặt tài liệu lẫn mã nguồn.
 
 **Đại diện nhóm ký xác nhận:**
