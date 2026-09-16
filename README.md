@@ -32,13 +32,18 @@ Dự án được tổ chức chuẩn hóa để phục vụ cho việc chấm �
 ├── docs/                         # Toàn bộ tài liệu dự án
 │   ├── agile/                    # Tài liệu quản lý theo Agile/Scrum
 │   │   ├── product-backlog.md    # Backlog tổng hợp các User Stories (Sprint 1 & 2)
+│   │   ├── agile-metrics.md      # Phân tích năng suất dự án (Burndown, Velocity)
 │   │   ├── sprint-1/             # Tài liệu Sprint 1 (Tuần 1 & 2)
 │   │   │   ├── sprint-planning.md
+│   │   │   ├── Bien_Ban_Hop_1.md # Biên bản cuộc họp Sprint 1 (Đợt 1)
+│   │   │   ├── Bien_Ban_Hop_2.md # Biên bản cuộc họp Sprint 1 (Đợt 2)
 │   │   │   ├── daily-standups.md
 │   │   │   ├── sprint-review.md
 │   │   │   └── sprint-retro.md
 │   │   └── sprint-2/             # Tài liệu Sprint 2 (Tuần 3 & 4)
 │   │       ├── sprint-planning.md
+│   │       ├── Bien_Ban_Hop_3.md # Biên bản cuộc họp Sprint 2 (Đợt 1)
+│   │       ├── Bien_Ban_Hop_4.md # Biên bản cuộc họp Sprint 2 (Đợt 2)
 │   │       ├── daily-standups.md
 │   │       ├── sprint-review.md
 │   │       └── sprint-retro.md
