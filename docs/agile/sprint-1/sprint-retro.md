@@ -1,7 +1,7 @@
 # Sprint 1 Retrospective - Website Mua Vé Xem Phim
 
 **Thời gian:** 28/08/2026  
-**Thành phần tham gia:** Cả nhóm 4 người (Thuận, Tài, Trâm, Thư)  
+**Thành phần tham gia:** Cả nhóm 4 người (Trần Phan Minh Thuận, Phạm Thanh Tài, Phạm Thị Ngọc Trâm, Phạm Văn Thư)  
 **Phương pháp áp dụng:** Start - Stop - Continue
 
 ---
@@ -18,8 +18,8 @@
 *   **Chia sẻ tài liệu chậm:** Tài liệu API lúc đầu lưu trữ rải rác trên máy cá nhân, gây khó khăn cho việc tra cứu của Frontend.
 
 ### Action Items (Hành động cải tiến cho Sprint 2 - START)
-*   **Quy chuẩn hóa tài liệu API:** Đưa toàn bộ tài liệu API lên Swagger/Postman Shared Workspace ngay từ ngày đầu tiên của Sprint 2 (Người phụ trách: **Văn Thư**).
-*   **Họp Daily Standup đúng giờ:** Di chuyển giờ họp standup lên đầu giờ sáng (9:00 AM) thay vì họp cuối ngày để định hướng công việc tốt hơn (Người phụ trách: **Minh Thuận**).
+*   **Quy chuẩn hóa tài liệu API:** Đưa toàn bộ tài liệu API lên Swagger/Postman Shared Workspace ngay từ ngày đầu tiên của Sprint 2 (Người phụ trách: **Phạm Văn Thư**).
+*   **Họp Daily Standup đúng giờ:** Di chuyển giờ họp standup lên đầu giờ sáng (9:00 AM) thay vì họp cuối ngày để định hướng công việc tốt hơn (Người phụ trách: **Trần Phan Minh Thuận**).
 *   **Quản lý rủi ro:** Nếu một task kỹ thuật bị block quá 4 tiếng, thành viên phải chủ động ping lên group chat để mọi người hỗ trợ ngay lập tức thay vì tự giải quyết một mình.
 
 ---
@@ -28,6 +28,6 @@
 
 | Action Item | Người phụ trách | Hạn chót (Due Date) | Trạng thái |
 | :--- | :---: | :---: | :---: |
-| Chuyển tài liệu API sang Postman Shared Workspace | Văn Thư | 30/08/2026 | **To Do** |
-| Đặt lịch họp Daily Standup 9:00 AM mỗi sáng trên Google Meet | Minh Thuận | 31/08/2026 | **To Do** |
-| Setup môi trường Test và Config Webhook Sandbox (MoMo/VNPay) | Minh Thuận & Văn Thư | 03/09/2026 | **To Do** |
+| Chuyển tài liệu API sang Postman Shared Workspace | Phạm Văn Thư | 30/08/2026 | **To Do** |
+| Đặt lịch họp Daily Standup 9:00 AM mỗi sáng trên Google Meet | Trần Phan Minh Thuận | 31/08/2026 | **To Do** |
+| Setup môi trường Test và Config Webhook Sandbox (MoMo/VNPay) | Trần Phan Minh Thuận & Phạm Văn Thư | 03/09/2026 | **To Do** |

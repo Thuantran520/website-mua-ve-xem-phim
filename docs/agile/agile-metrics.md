@@ -23,21 +23,21 @@ Dưới đây là bảng tổng hợp giờ ước lượng (Estimated Hours - E
 ### Sprint 1
 | Task ID | Thành viên phụ trách | Nhiệm vụ chính | Est (Giờ) | Act (Giờ) | Chênh lệch |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| **TS1-BE-01** | T. M. Thuận (SM) | Thiết kế Database Schema | 6 | 5 | -1 |
-| **TS1-BE-03** | T. M. Thuận (SM) | API Phim/Suất chiếu | 12 | 14 | +2 |
-| **TS1-BE-06** | T. M. Thuận (SM) | API Lock ghế Redis | 16 | 18 | +2 |
-| **TS1-BE-08** | T. M. Thuận (SM) | Script Integration Test | 8 | 8 | 0 |
-| **TS1-BE-02** | P. V. Thư (Dev) | Khởi tạo NodeJS Backend & Docker Compose | 10 | 12 | +2 |
-| **TS1-BE-04** | P. V. Thư (Dev) | API lấy sơ đồ ghế suất chiếu | 12 | 10 | -2 |
-| **TS1-BE-05** | P. V. Thư (Dev) | Module Redis Distributed Lock | 16 | 17 | +1 |
-| **TS1-BE-07** | P. V. Thư (Dev) | Event Listener tự động hủy lock | 14 | 16 | +2 |
-| **TS1-FE-01** | P. T. Tài (Dev) | Khởi tạo Frontend React/Vite | 8 | 7 | -1 |
-| **TS1-FE-03** | P. T. Tài (Dev) | Giao diện sơ đồ ghế Seat Map | 16 | 18 | +2 |
-| **TS1-FE-05** | P. T. Tài (Dev) | Ghép API sơ đồ ghế thời gian thực | 14 | 15 | +1 |
-| **TS1-FE-07** | P. T. Tài & N. Trâm | Kết nối Websocket / SSE | 12 | 15 | +3 |
-| **TS1-FE-02** | N. Trâm (PO) | Thiết kế UI trang chủ & suất chiếu | 10 | 9 | -1 |
-| **TS1-FE-04** | N. Trâm (PO) | Zustand state & đếm ngược 5 phút | 14 | 13 | -1 |
-| **TS1-FE-06** | N. Trâm (PO) | Ghép API giữ chỗ (lock-seats) | 12 | 11 | -1 |
+| **TS1-BE-01** | Trần Phan Minh Thuận (SM) | Thiết kế Database Schema | 6 | 5 | -1 |
+| **TS1-BE-03** | Trần Phan Minh Thuận (SM) | API Phim/Suất chiếu | 12 | 14 | +2 |
+| **TS1-BE-06** | Trần Phan Minh Thuận (SM) | API Lock ghế Redis | 16 | 18 | +2 |
+| **TS1-BE-08** | Trần Phan Minh Thuận (SM) | Script Integration Test | 8 | 8 | 0 |
+| **TS1-BE-02** | Phạm Văn Thư (Dev) | Khởi tạo NodeJS Backend & Docker Compose | 10 | 12 | +2 |
+| **TS1-BE-04** | Phạm Văn Thư (Dev) | API lấy sơ đồ ghế suất chiếu | 12 | 10 | -2 |
+| **TS1-BE-05** | Phạm Văn Thư (Dev) | Module Redis Distributed Lock | 16 | 17 | +1 |
+| **TS1-BE-07** | Phạm Văn Thư (Dev) | Event Listener tự động hủy lock | 14 | 16 | +2 |
+| **TS1-FE-01** | Phạm Thanh Tài (Dev) | Khởi tạo Frontend React/Vite | 8 | 7 | -1 |
+| **TS1-FE-03** | Phạm Thanh Tài (Dev) | Giao diện sơ đồ ghế Seat Map | 16 | 18 | +2 |
+| **TS1-FE-05** | Phạm Thanh Tài (Dev) | Ghép API sơ đồ ghế thời gian thực | 14 | 15 | +1 |
+| **TS1-FE-07** | Phạm Thanh Tài & Phạm Thị Ngọc Trâm | Kết nối Websocket / SSE | 12 | 15 | +3 |
+| **TS1-FE-02** | Phạm Thị Ngọc Trâm (PO) | Thiết kế UI trang chủ & suất chiếu | 10 | 9 | -1 |
+| **TS1-FE-04** | Phạm Thị Ngọc Trâm (PO) | Zustand state & đếm ngược 5 phút | 14 | 13 | -1 |
+| **TS1-FE-06** | Phạm Thị Ngọc Trâm (PO) | Ghép API giữ chỗ (lock-seats) | 12 | 11 | -1 |
 | **TỔNG CỘNG**| | | **180** | **188** | **+8** |
 
 #### Chi tiết phân bổ giờ thực tế (Actual Spent Hours) Sprint 1
@@ -66,17 +66,17 @@ Dưới đây là bảng tổng hợp giờ ước lượng (Estimated Hours - E
 ### Sprint 2
 | Task ID | Thành viên phụ trách | Nhiệm vụ chính | Est (Giờ) | Act (Giờ) | Chênh lệch |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| **TS2-BE-01** | T. M. Thuận (SM) | Tích hợp MoMo Sandbox | 16 | 15 | -1 |
-| **TS2-BE-03** | T. M. Thuận (SM) | Xử lý Webhook IPN & verify chữ ký | 14 | 14 | 0 |
-| **TS2-BE-05** | T. M. Thuận (SM) | Sinh QR Code & Email service | 12 | 11 | -1 |
-| **TS2-BE-02** | P. V. Thư (Dev) | Tích hợp VNPay Sandbox | 16 | 17 | +1 |
-| **TS2-BE-04** | P. V. Thư (Dev) | DB Transaction đổi trạng thái vé | 12 | 11 | -1 |
-| **TS2-BE-06** | P. V. Thư (Dev) | API lịch sử & hủy giữ chỗ sớm | 10 | 10 | 0 |
-| **TS2-FE-01** | P. T. Tài (Dev) | UI tóm tắt hóa đơn chọn cổng | 10 | 9 | -1 |
-| **TS2-FE-03** | P. T. Tài (Dev) | Xử lý redirect MoMo/VNPay | 12 | 11 | -1 |
-| **TS2-FE-05** | P. T. Tài & N. Trâm | Ghép API Lịch sử & Hủy đặt vé | 12 | 11 | -1 |
-| **TS2-FE-02** | N. Trâm (PO) | UI Success/Failure & hiển thị QR | 12 | 13 | +1 |
-| **TS2-FE-04** | N. Trâm (PO) | UI trang Lịch sử đặt vé | 14 | 13 | -1 |
+| **TS2-BE-01** | Trần Phan Minh Thuận (SM) | Tích hợp MoMo Sandbox | 16 | 15 | -1 |
+| **TS2-BE-03** | Trần Phan Minh Thuận (SM) | Xử lý Webhook IPN & verify chữ ký | 14 | 14 | 0 |
+| **TS2-BE-05** | Trần Phan Minh Thuận (SM) | Sinh QR Code & Email service | 12 | 11 | -1 |
+| **TS2-BE-02** | Phạm Văn Thư (Dev) | Tích hợp VNPay Sandbox | 16 | 17 | +1 |
+| **TS2-BE-04** | Phạm Văn Thư (Dev) | DB Transaction đổi trạng thái vé | 12 | 11 | -1 |
+| **TS2-BE-06** | Phạm Văn Thư (Dev) | API lịch sử & hủy giữ chỗ sớm | 10 | 10 | 0 |
+| **TS2-FE-01** | Phạm Thanh Tài (Dev) | UI tóm tắt hóa đơn chọn cổng | 10 | 9 | -1 |
+| **TS2-FE-03** | Phạm Thanh Tài (Dev) | Xử lý redirect MoMo/VNPay | 12 | 11 | -1 |
+| **TS2-FE-05** | Phạm Thanh Tài & Phạm Thị Ngọc Trâm | Ghép API Lịch sử & Hủy đặt vé | 12 | 11 | -1 |
+| **TS2-FE-02** | Phạm Thị Ngọc Trâm (PO) | UI Success/Failure & hiển thị QR | 12 | 13 | +1 |
+| **TS2-FE-04** | Phạm Thị Ngọc Trâm (PO) | UI trang Lịch sử đặt vé | 14 | 13 | -1 |
 | **TS2-FE-06** | Cả Scrum Team | E2E Testing toàn luồng & viết API doc | 16 | 15 | -1 |
 | **TỔNG CỘNG**| | | **156** | **150** | **-6** |
 

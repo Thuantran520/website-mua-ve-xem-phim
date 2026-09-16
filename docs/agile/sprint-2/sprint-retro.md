@@ -1,7 +1,7 @@
 # Sprint 2 Retrospective - Website Mua Vé Xem Phim
 
 **Thời gian:** 11/09/2026  
-**Thành phần tham gia:** Cả nhóm 4 người (Thuận, Tài, Trâm, Thư)  
+**Thành phần tham gia:** Cả nhóm 4 người (Trần Phan Minh Thuận, Phạm Thanh Tài, Phạm Thị Ngọc Trâm, Phạm Văn Thư)  
 **Phương pháp áp dụng:** Start - Stop - Continue
 
 ---
@@ -16,7 +16,7 @@ Nhóm đã cải tiến tốt các điểm yếu từ Sprint 1:
 ## 2. Kết quả thảo luận Sprint 2
 
 ### What Went Well (CONTINUE)
-*   **Hỗ trợ chéo tốt:** Thuận và Thư cùng nghiên cứu tài liệu hai cổng thanh toán khác nhau nhưng chia sẻ thuật toán hash và tạo query string cho nhau, tiết kiệm 50% thời gian code.
+*   **Hỗ trợ chéo tốt:** Trần Phan Minh Thuận và Phạm Văn Thư cùng nghiên cứu tài liệu hai cổng thanh toán khác nhau nhưng chia sẻ thuật toán hash và tạo query string cho nhau, tiết kiệm 50% thời gian code.
 *   **Quản lý rủi ro:** Khi gặp lỗi CORS ở Webhook IPN, nhóm lập tức dùng `ngrok` và cấu hình reverse proxy, giải quyết vấn đề trong vòng 2 tiếng.
 *   **Chất lượng sản phẩm:** Luồng E2E hoàn thành mượt mà, không gặp lỗi sót dữ liệu hoặc sai lệch trạng thái ghế.
 

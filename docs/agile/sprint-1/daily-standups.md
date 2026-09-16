@@ -23,7 +23,7 @@ Nhật ký họp Daily Standup (10-15 phút hàng ngày) của nhóm trong 2 tu�
 *   **Phạm Thị Ngọc Trâm (Frontend):**
     *   **Yesterday:** Phác thảo UI Wireframe cho các trang chủ và trang đặt vé.
     *   **Today:** Thiết kế giao diện Header, Footer và trang chủ danh sách phim.
-    *   **Blockers:** Đang chờ Tài setup xong project framework để push code UI lên.
+    *   **Blockers:** Đang chờ Phạm Thanh Tài setup xong project framework để push code UI lên.
 
 ---
 

@@ -18,7 +18,7 @@ ___
 
 **Agenda and Notes**
 
-- Nghiệm thu (Test) toàn bộ hệ thống lần cuối. Trâm đóng vai khách hàng thực hiện mua vé từ A-Z.
+- Nghiệm thu (Test) toàn bộ hệ thống lần cuối. Phạm Thị Ngọc Trâm đóng vai khách hàng thực hiện mua vé từ A-Z.
 - Chức năng đếm ngược 5 phút hoạt động tốt. Webhook nhả kết quả về DB chính xác, màn hình hiển thị QR Code.
 - Đánh giá: Sản phẩm đã đáp ứng 100% mục tiêu đề ra ban đầu, giải quyết triệt để vấn đề Concurrency và Thanh toán.
 - Kế hoạch đóng gói (Nộp bài): Thống nhất không thêm bất kỳ dòng code tính năng nào nữa.
