@@ -25,17 +25,5 @@ dist-ssr
 *.sw?
 
 # ---------------------------------------------------
-# CHỈ BỔ SUNG PHẦN DƯỚI ĐÂY ĐỂ ẨN TÀI LIỆU KHỎI GITHUB
-# (Giảng viên nhìn vào Github sẽ chỉ thấy source code web)
+# Đã gỡ bỏ luật chặn để đẩy toàn bộ báo cáo lên Github
 # ---------------------------------------------------
-File\ báo\ cáo\ cuối\ kỳ/
-docs/
-*.md
-!README.md
-*.zip
-*.xls
-*.xlsx
-*.pdf
-*.docx
-trello-board.html
-generate_burndown*
